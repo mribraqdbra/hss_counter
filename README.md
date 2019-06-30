@@ -1,7 +1,4 @@
-==============================
-HSS Counter v1.1b
-@mribraqdbra - 2019-06-29
-==============================
+HSS Counter
 
 Make your life from HSS safer with HSS Counter!
 
@@ -20,5 +17,3 @@ HSS Counter v1.1b
 HSS Counter v1.0b
 
 * First release.
-
-
