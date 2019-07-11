@@ -1,4 +1,4 @@
-HSS Counter v1.2
+HSS Counter v1.3
 
 
 ======================================================================
@@ -17,6 +17,13 @@ https://github.com/mribraqdbra/hss_counter
 ======================================================================
 
 Changelog:
+
+HSS Counter v1.3 [2019-07-11]
+
+* Some improvment.
+* Added bak folder for bak files.
+* Removed "Delete all logs" option.
+* Set back 0 as back in every option.
 
 HSS Counter v1.2 [2019-07-10]
 
